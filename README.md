@@ -70,4 +70,3 @@ After completing all steps, your Ubuntu server will have:
 - 🔒 A secured firewall using UFW
 - 🌐 Nginx configured as a reverse proxy
 - 📊 Automated system health monitoring
-```
